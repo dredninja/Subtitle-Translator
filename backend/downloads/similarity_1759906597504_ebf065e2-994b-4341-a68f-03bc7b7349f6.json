@@ -1,0 +1,353 @@
+{
+  "summary": {
+    "num_lines": 43,
+    "average_similarity": 0.902,
+    "threshold": 0.7
+  },
+  "report": [
+    {
+      "index": 1,
+      "original": "I want you to hit me as hard as you can",
+      "translated": "Quiero que me pegues tan fuerte como puedas.",
+      "back_translated": "I want you to hit me as hard as you can.",
+      "similarity": 0.985,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 2,
+      "original": "why how much can you know about yourself",
+      "translated": "¿Por qué cuánto puedes saber de ti mismo?",
+      "back_translated": "Why do you know how much of yourself?",
+      "similarity": 0.908,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 3,
+      "original": "you never been in fight wait let me",
+      "translated": "Nunca has estado en combate, espera, déjame.",
+      "back_translated": "You've never been in combat, wait, leave me.",
+      "similarity": 0.775,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 4,
+      "original": "start earlier like many of you I was",
+      "translated": "empezar antes como muchos de ustedes.",
+      "back_translated": "start earlier like a lot of you.",
+      "similarity": 0.87,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 5,
+      "original": "stuck",
+      "translated": "Atascada",
+      "back_translated": "Stuck",
+      "similarity": 0.963,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 6,
+      "original": "you want me to deprioritize my current",
+      "translated": "quieres que depriorice mi corriente",
+      "back_translated": "You want me to downgrade my current.",
+      "similarity": 0.765,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 7,
+      "original": "reports yet until you advise them status",
+      "translated": "informes aún hasta que usted les aconseje el estado",
+      "back_translated": "reports even until you advise them the state",
+      "similarity": 0.78,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 8,
+      "original": "upgrade make these your primary action",
+      "translated": "actualizar hacer de estos su acción principal",
+      "back_translated": "update make these your main action",
+      "similarity": 0.818,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 9,
+      "original": "items I couldn't sleep",
+      "translated": "cosas que no podía dormir",
+      "back_translated": "Things I couldn't sleep on",
+      "similarity": 0.926,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 10,
+      "original": "no you can't die from insomnia I'd flip",
+      "translated": "No, no puedes morir de insomnio.",
+      "back_translated": "No, you can't die of insomnia.",
+      "similarity": 0.872,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 11,
+      "original": "through catalogs and wonder what kind of",
+      "translated": "a través de catálogos y se preguntan qué tipo de",
+      "back_translated": "through catalogues and wonder what kind of",
+      "similarity": 0.934,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 12,
+      "original": "dining set defines me as a person this",
+      "translated": "comedor me define como una persona esta",
+      "back_translated": "dining room defines me as a person this",
+      "similarity": 0.927,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 13,
+      "original": "is your life and it's ending one minute",
+      "translated": "es tu vida y está terminando un minuto",
+      "back_translated": "It's your life and it's finishing a minute.",
+      "similarity": 0.885,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 14,
+      "original": "at a time I prayed for a different life",
+      "translated": "en un momento recé por una vida diferente",
+      "back_translated": "In a moment I prayed for a different life",
+      "similarity": 0.978,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 15,
+      "original": "so I make in the same suit this is how I",
+      "translated": "así que hago con el mismo traje así es como",
+      "back_translated": "So I do the same suit, that's how",
+      "similarity": 0.87,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 16,
+      "original": "met Tyler Durden come on hit before I",
+      "translated": "Conocí a Tyler Durden antes que yo.",
+      "back_translated": "I met Tyler Durden before I did.",
+      "similarity": 0.8,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 17,
+      "original": "lose my nerve it was on the tip of",
+      "translated": "perder mis nervios fue en la punta de",
+      "back_translated": "losing my nerves was at the tip of",
+      "similarity": 0.786,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 18,
+      "original": "everyone's tongue can I be next we just",
+      "translated": "la lengua de todos puedo ser el siguiente nosotros sólo",
+      "back_translated": "Everyone's tongue can be the next we just",
+      "similarity": 0.898,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 19,
+      "original": "gave it a name gentlemen welcome to",
+      "translated": "le dio un nombre caballeros bienvenidos a",
+      "back_translated": "gave a name gentlemen welcome to",
+      "similarity": 0.924,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 20,
+      "original": "Fight Club",
+      "translated": "Club de lucha",
+      "back_translated": "Fight Club",
+      "similarity": 1.0,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 21,
+      "original": "first rule of Fight Club is Wow nice you",
+      "translated": "la primera regla del Club de Lucha es Wow agradable",
+      "back_translated": "The first rule of the wrestling club is nice wow.",
+      "similarity": 0.718,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 22,
+      "original": "do not talk about Fight Club I think",
+      "translated": "No hables de Club de Lucha Creo que",
+      "back_translated": "Don't talk about Fight Club. I think",
+      "similarity": 0.943,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 23,
+      "original": "your blood some of it yeah",
+      "translated": "tu sangre algo de ella sí",
+      "back_translated": "Your blood, some of it.",
+      "similarity": 0.968,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 24,
+      "original": "after Fight Club we all started seeing",
+      "translated": "después de que Fight Club todos empezamos a ver",
+      "back_translated": "After Fight Club we all started seeing",
+      "similarity": 0.999,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 25,
+      "original": "things differently here you don't have",
+      "translated": "las cosas de otra manera aquí no tienes",
+      "back_translated": "things differently here you don't have",
+      "similarity": 1.0,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 26,
+      "original": "to keep me up",
+      "translated": "para mantenerme despierto.",
+      "back_translated": "to keep me awake.",
+      "similarity": 0.766,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 27,
+      "original": "and she ruined everything you're not",
+      "translated": "y ella arruinó todo lo que no eres",
+      "back_translated": "And she ruined everything you're not.",
+      "similarity": 0.984,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 28,
+      "original": "into her no God not at all well been",
+      "translated": "en ella ningún Dios no ha estado en absoluto bien",
+      "back_translated": "in it no God has been at all well",
+      "similarity": 0.689,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 29,
+      "original": "raised on television to believe that one",
+      "translated": "planteado en la televisión para creer que uno",
+      "back_translated": "raised on television to believe that one",
+      "similarity": 1.0,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 30,
+      "original": "day we'd all be millionaires and movie",
+      "translated": "Día en que todos seremos millonarios y películas",
+      "back_translated": "Day when we'll all be millionaires and movies",
+      "similarity": 0.906,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 31,
+      "original": "gods and rock stars but we won't they",
+      "translated": "Dioses y estrellas de rock, pero no lo haremos.",
+      "back_translated": "Gods and rock stars, but we won't.",
+      "similarity": 0.957,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 32,
+      "original": "had a plan to what purpose",
+      "translated": "tenía un plan con qué propósito",
+      "back_translated": "had a plan for what purpose",
+      "similarity": 0.992,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 33,
+      "original": "in Tyler we trusted I got a fight club",
+      "translated": "En Tyler confiamos en que tengo un club de lucha.",
+      "back_translated": "In Tyler we trust that I have a wrestling club.",
+      "similarity": 0.771,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 34,
+      "original": "up and on each one of you has a homework",
+      "translated": "arriba y en cada uno de ustedes tiene una tarea",
+      "back_translated": "up and in each of you has a task",
+      "similarity": 0.776,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 35,
+      "original": "assignment you're gonna start a fight",
+      "translated": "vas a empezar una pelea",
+      "back_translated": "You're gonna start a fight.",
+      "similarity": 0.919,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 36,
+      "original": "with a total stranger you were looking",
+      "translated": "con un extraño total que estabas buscando",
+      "back_translated": "with a total stranger you were looking for",
+      "similarity": 0.963,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 37,
+      "original": "for a way to change your life you got it",
+      "translated": "por una manera de cambiar tu vida lo tienes",
+      "back_translated": "For a way to change your life you have it",
+      "similarity": 0.972,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 38,
+      "original": "I'm stopping this",
+      "translated": "Voy a detener esto.",
+      "back_translated": "I'm gonna stop this.",
+      "similarity": 0.887,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 39,
+      "original": "[Music]",
+      "translated": "[Música]",
+      "back_translated": "[Music]",
+      "similarity": 1.0,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 40,
+      "original": "[Music]",
+      "translated": "[Música]",
+      "back_translated": "[Music]",
+      "similarity": 1.0,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 41,
+      "original": "Wow anyone who would you fight Shatner I",
+      "translated": "Vaya, cualquiera que quiera pelear con Shatner.",
+      "back_translated": "Wow, anyone who wants to fight Shatner.",
+      "similarity": 0.896,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 42,
+      "original": "play William Shatner",
+      "translated": "Juega William Shatner",
+      "back_translated": "Play William Shatner",
+      "similarity": 0.998,
+      "reading_speed_ok": true
+    },
+    {
+      "index": 43,
+      "original": "[Music]",
+      "translated": "[Música]",
+      "back_translated": "[Music]",
+      "similarity": 1.0,
+      "reading_speed_ok": true
+    }
+  ]
+}
